@@ -1,0 +1,17 @@
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Infrastructure.deps.json
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Infrastructure.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Infrastructure.pdb
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Core.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Core.pdb
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBo.0F8CC11E.Up2Date
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\refint\ClinicBookingSystem.Infrastructure.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.pdb
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ref\ClinicBookingSystem.Infrastructure.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\bin\Debug\net8.0\ClinicBookingSystem.Infrastructure.runtimeconfig.json
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Infrastructure\obj\Debug\net8.0\ClinicBookingSystem.Infrastructure.genruntimeconfig.cache

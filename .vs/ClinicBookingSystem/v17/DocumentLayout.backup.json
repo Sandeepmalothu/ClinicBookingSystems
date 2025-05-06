@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|solutionrelative:clinicbookingsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|solutionrelative:clinicbookingsystem\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|solutionrelative:clinicbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.infrastructure\\data\\cliniccontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|solutionrelative:clinicbookingsyatem.infrastructure\\data\\cliniccontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|solutionrelative:clinicbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.infrastructure\\repository\\doctorrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|solutionrelative:clinicbookingsyatem.infrastructure\\repository\\doctorrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem.services\\services\\doctorservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|solutionrelative:clinicbookingsystem.services\\services\\doctorservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86030462-2C2D-788E-8635-2A7F6605BF22}|ClinicBookingSystem\\ClinicBookingSystem.csproj|solutionrelative:clinicbookingsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem.services\\services\\appointmentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|solutionrelative:clinicbookingsystem.services\\services\\appointmentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.infrastructure\\repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|solutionrelative:clinicbookingsyatem.infrastructure\\repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsystem.services\\services\\patientservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F62BDB0-D0DF-47AB-9CEE-65456556E93F}|ClinicBookingSystem.Services\\ClinicBookingSystem.Services.csproj|solutionrelative:clinicbookingsystem.services\\services\\patientservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.infrastructure\\repository\\patientrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC66F3F-067F-4996-8367-CE99B6063D9D}|ClinicBookingSyatem.Infrastructure\\ClinicBookingSystem.Infrastructure.csproj|solutionrelative:clinicbookingsyatem.infrastructure\\repository\\patientrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\irepository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\irepository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\iservices\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\iservices\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\irepository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\irepository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\irepository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\irepository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\iservices\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\iservices\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|c:\\users\\banothu sravanthi\\source\\repos\\clinicbookingsystem\\clinicbookingsyatem.core\\interfacess\\iservices\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8BD95-A565-4C48-8F3D-719EE8E68EF3}|ClinicBookingSyatem.Core\\ClinicBookingSystem.Core.csproj|solutionrelative:clinicbookingsyatem.core\\interfacess\\iservices\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:09:08.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "ClinicBookingSystem\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:02:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorService .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\DoctorService .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem.Services\\Services\\DoctorService .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\DoctorService .cs",
+              "RelativeToolTip": "ClinicBookingSystem.Services\\Services\\DoctorService .cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:05:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicBookingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\appsettings.json",
+              "RelativeToolTip": "ClinicBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T16:07:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Program.cs",
+              "RelativeToolTip": "ClinicBookingSystem\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:16:17.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\AppointmentsController.cs*",
+              "RelativeToolTip": "ClinicBookingSystem\\Controllers\\AppointmentsController.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:22:26.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Models\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:29:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Infrastructure\\Repository\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Infrastructure\\Repository\\AppointmentRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA7wDQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:14:02.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClinicContext .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Data\\ClinicContext .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Infrastructure\\Data\\ClinicContext .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Data\\ClinicContext .cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Infrastructure\\Data\\ClinicContext .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:15:13.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorRepository .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\DoctorRepository .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Infrastructure\\Repository\\DoctorRepository .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\DoctorRepository .cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Infrastructure\\Repository\\DoctorRepository .cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:10:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "ClinicBookingSystem\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:03:43.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:14:35.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentService .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\AppointmentService .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem.Services\\Services\\AppointmentService .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\AppointmentService .cs",
+              "RelativeToolTip": "ClinicBookingSystem.Services\\Services\\AppointmentService .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:24:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientService .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\PatientService .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSystem.Services\\Services\\PatientService .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSystem.Services\\Services\\PatientService .cs",
+              "RelativeToolTip": "ClinicBookingSystem.Services\\Services\\PatientService .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:34:02.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientRepository .cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\PatientRepository .cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Infrastructure\\Repository\\PatientRepository .cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Infrastructure\\Repository\\PatientRepository .cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Infrastructure\\Repository\\PatientRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:32:40.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IPatientRepository.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:31:09.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IPatientService.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IPatientService.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:30:24.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IDoctorService.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:06:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IServices\\IAppointmentService.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IServices\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:23:31.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IDoctorRepository.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:10:29.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\banothu sravanthi\\source\\repos\\ClinicBookingSystem\\ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IAppointmentRepository.cs",
+              "RelativeToolTip": "ClinicBookingSyatem.Core\\Interfacess\\IRepository\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:25:57.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

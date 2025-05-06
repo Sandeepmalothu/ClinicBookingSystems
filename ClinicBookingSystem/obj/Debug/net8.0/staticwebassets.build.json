@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Se60GwngBwqglblhj5WukJOBmkqEOFDOmYVK5ZKlTTc=",
+  "Source": "ClinicBookingSystem",
+  "BasePath": "_content/ClinicBookingSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

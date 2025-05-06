@@ -1,0 +1,14 @@
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\bin\Debug\net8.0\ClinicBookingSystem.Core.deps.json
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\bin\Debug\net8.0\ClinicBookingSystem.Core.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\bin\Debug\net8.0\ClinicBookingSystem.Core.pdb
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.AssemblyInfo.cs
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\refint\ClinicBookingSystem.Core.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.pdb
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ref\ClinicBookingSystem.Core.dll
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.csproj.AssemblyReference.cache
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\bin\Debug\net8.0\ClinicBookingSystem.Core.runtimeconfig.json
+C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSyatem.Core\obj\Debug\net8.0\ClinicBookingSystem.Core.genruntimeconfig.cache
