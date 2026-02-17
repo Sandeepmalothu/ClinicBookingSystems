@@ -15,19 +15,3 @@ C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSystem.
 C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSystem.Services\obj\Debug\net8.0\ref\ClinicBookingSystem.Services.dll
 C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Services.runtimeconfig.json
 C:\Users\banothu sravanthi\source\repos\ClinicBookingSystem\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.genruntimeconfig.cache
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Services.deps.json
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Services.dll
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Services.pdb
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Core.dll
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\bin\Debug\net8.0\ClinicBookingSystem.Core.pdb
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.csproj.AssemblyReference.cache
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.AssemblyInfoInputs.cache
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.AssemblyInfo.cs
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.csproj.CoreCompileInputs.cache
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.sourcelink.json
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBo.114D5CF3.Up2Date
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.dll
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\refint\ClinicBookingSystem.Services.dll
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ClinicBookingSystem.Services.pdb
-C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSystem.Services\obj\Debug\net8.0\ref\ClinicBookingSystem.Services.dll

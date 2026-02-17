@@ -36,13 +36,10 @@ namespace ClinicBookingSystem.Infrastructure.Repository
             var existing = await _context.Patients.FindAsync(id);
             if (existing == null) return false;
 
-            existing.name = patient.name;
-            existing.email = patient.email;
-            existing.phonenumber = patient.phonenumber;
-            existing.dateofbirth = patient.dateofbirth;
-            existing.gender = patient.gender;
-            existing.age = patient.age;
-
+            existing.Name = patient.Name;
+            existing.Email = patient.Email;
+            existing.PhoneNumber = patient.PhoneNumber;
+            existing.DateOfBirth = patient.DateOfBirth;
 
             await _context.SaveChangesAsync();
             return true;
