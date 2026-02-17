@@ -1,13 +1,11 @@
-﻿using ClinicBookingSystem.Core.Interfacess.IRepository;
-using ClinicBookingSystem.Core.Interfacess.IServices;
-using ClinicBookingSystem.Core.Models;
-using Npgsql;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Npgsql;
+using ClinicBookingSystem.Core.Interfacess.IRepository;
+using ClinicBookingSystem.Core.Interfacess.IServices;
+using ClinicBookingSystem.Core.Models;
 
 namespace ClinicBookingSystem.Services.Services
 {
@@ -21,11 +19,7 @@ namespace ClinicBookingSystem.Services.Services
         }
 
         public async Task<IEnumerable<Patient>> GetPatientsAsync()
-        {
-
-            var result = await _repo.GetAllAsync();
-            return result;
-        }
+            => await _repo.GetAllAsync();
 
         public async Task<Patient?> GetPatientByIdAsync(int id)
             => await _repo.GetByIdAsync(id);

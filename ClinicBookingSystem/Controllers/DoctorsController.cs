@@ -32,7 +32,7 @@ namespace ClinicBookingSystem.Controllers
             public async Task<IActionResult> Create([FromBody] Doctor doctor)
             {
                 await _service.AddDoctorAsync(doctor);
-                return CreatedAtAction(nameof(GetById), new { id = doctor.id }, doctor);
+                return CreatedAtAction(nameof(GetById), new { id = doctor.Id }, doctor);
             }
 
             [HttpPut("{id}")]

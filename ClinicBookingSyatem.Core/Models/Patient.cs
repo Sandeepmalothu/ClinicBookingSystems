@@ -8,17 +8,17 @@ namespace ClinicBookingSystem.Core.Models
 {
     public class Patient
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
-        public string name { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
 
-        public string email { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
 
-        public string phonenumber { get; set; } = string.Empty;
+        public string PhoneNumber { get; set; } = string.Empty;
 
-        public DateTime dateofbirth { get; set; }
+        public DateTime DateOfBirth { get; set; }
 
-        public string? gender { get; set; }
-        public int age { get; set; }
+        public string? Gender { get; set; }
+        public int Age { get; set; }
     }
 }
