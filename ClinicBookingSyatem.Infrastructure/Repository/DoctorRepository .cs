@@ -37,10 +37,12 @@ namespace ClinicBookingSystem.Infrastructure.Repository
             var existing = await _context.Doctors.FindAsync(id);
             if (existing == null) return false;
 
-            existing.Name = doctor.Name;
-            existing.Specialization = doctor.Specialization;
-            existing.Email = doctor.Email;
+            existing.name = doctor.name;
+            existing.specialization = doctor.specialization;
+            existing.email = doctor.email;
             // Add other fields as needed
+            existing.phonenumber = doctor.phonenumber;
+
 
             await _context.SaveChangesAsync();
             return true;

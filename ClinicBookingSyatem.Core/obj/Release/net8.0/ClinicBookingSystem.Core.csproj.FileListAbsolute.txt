@@ -1,0 +1,13 @@
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\bin\Release\net8.0\ClinicBookingSystem.Core.deps.json
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\bin\Release\net8.0\ClinicBookingSystem.Core.dll
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\bin\Release\net8.0\ClinicBookingSystem.Core.pdb
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.AssemblyInfo.cs
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.sourcelink.json
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.dll
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\refint\ClinicBookingSystem.Core.dll
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ClinicBookingSystem.Core.pdb
+C:\Users\sande\source\repos\ClinicBookingSystems\ClinicBookingSyatem.Core\obj\Release\net8.0\ref\ClinicBookingSystem.Core.dll

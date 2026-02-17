@@ -519,7 +519,7 @@
             "type": "string",
             "nullable": true
           },
-          "phoneNumber": {
+          "phonenumber": {
             "type": "string",
             "nullable": true
           }
@@ -541,11 +541,11 @@
             "type": "string",
             "nullable": true
           },
-          "phoneNumber": {
+          "phonenumber": {
             "type": "string",
             "nullable": true
           },
-          "dateOfBirth": {
+          "dateofbirth": {
             "type": "string",
             "format": "date-time"
           },
