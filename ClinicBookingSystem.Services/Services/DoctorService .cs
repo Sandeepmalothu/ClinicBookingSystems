@@ -41,7 +41,7 @@ namespace ClinicBookingSystem.Services.Services
                 return false;
 
             // Optionally map fields from input to existing entity
-            doctor.Id = id; // Ensure ID consistency
+            doctor.id = id; // Ensure ID consistency
             return await _repository.UpdateAsync(id, doctor);
         }
 
